@@ -6,7 +6,7 @@ public class Test1 {
 
 		int j=0;
 		
-		
+		int u=1;
 
 	}
 }
