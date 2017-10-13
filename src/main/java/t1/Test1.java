@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("cccc");
 		System.out.println("ddd");
 		int cc=3;
+		int cc2=3;
 	}
 }
